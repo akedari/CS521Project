@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="classes/jgoodies-common-javadoc.jar"/>
+	<classpathentry kind="lib" path="classes/jgoodies-common-sources.jar"/>
+	<classpathentry kind="lib" path="classes/jgoodies-common.jar"/>
+	<classpathentry kind="lib" path="classes/jgoodies-forms-javadoc.jar"/>
+	<classpathentry kind="lib" path="classes/jgoodies-forms-sources.jar"/>
+	<classpathentry kind="lib" path="classes/jgoodies-forms.jar"/>
+	<classpathentry kind="lib" path="classes/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
